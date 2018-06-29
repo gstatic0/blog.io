@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "milestone"
-description: "代表作"
+description: "你可知道“茴”字有几种写法。"
 header-img: "img/zhihu.jpg"
 ---
 
